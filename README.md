@@ -2,7 +2,7 @@
 
 ## The Enchantment's Lottery
 
-The Enchantments are a protected area of the Alpine Lakes Wilderness in Washington state. The USFS has (published data for a few years now)[https://www.fs.usda.gov/detail/okawen/passes-permits/recreation/?cid=fsbdev3_053607] of the lottery results. 
+The Enchantments are a protected area of the Alpine Lakes Wilderness in Washington state. The USFS has [published data for a few years now](https://www.fs.usda.gov/detail/okawen/passes-permits/recreation/?cid=fsbdev3_053607) of the lottery results. 
 
 This repository uses the results data to perform a series of statistical calculations to determine the probability of winning a permit given the options applied for. In addition to the probabilities, data is provided on general stats (i.e., total applications, total awarded).
 
